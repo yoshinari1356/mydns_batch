@@ -12,7 +12,7 @@
 
 ## About <a name = "about"></a>
 
-myDNSを使ってダイナミックDNSを設定するスクリプトです
+myDNSを使ってダイナミックDNSを設定するスクリプトです  
 raspberry piなど使って数時間ごとに実行すると良いと思います
 
 ダイナミックDNSの管理をしているmysdn  
