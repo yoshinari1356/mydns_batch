@@ -12,8 +12,15 @@
 
 ## About <a name = "about"></a>
 
-myDNSを使ってダイナミックDNSを設定するスクリプトです
+myDNSを使ってダイナミックDNSを設定するスクリプトです  
 raspberry piなど使って数時間ごとに実行すると良いと思います
+
+ダイナミックDNSの管理をしているmysdn  
+http://www.mydns.jp/  
+
+グローバルIPを取得するために使用するサービス  
+http://icanhazip.com/  
+
 
 ## Getting Started <a name = "getting_started"></a>
 
