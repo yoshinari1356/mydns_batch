@@ -31,6 +31,8 @@ http://icanhazip.com/
 ```
 MYDNS_MID=XXXXXX
 MYDNS_PW=XXXXXX
+
+SLACK_WEBHOOK_URL=http://xxxxxxxxxx.xxx
 ```
 
 ### Installing
