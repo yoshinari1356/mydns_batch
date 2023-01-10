@@ -1,0 +1,26 @@
+この通知でのIPアドレスの変更はありません。
+<html>
+<head>
+<title>Dynamic DNS (DDNS) for Home Server and VPS etc, Free! | MyDNS.JP</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<LINK href="./site.css" rel=stylesheet type=text/css>
+
+</head>
+<BODY BGCOLOR="#FFFFFF"
+      TEXT="#304040"
+      leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"
+>
+<BR>
+Login and IP address notify OK.<BR>
+login_status = 1.<BR>
+<BR>
+<DT>MASTERID :</DT><DD>mydns547391</DD>
+<DT>IPv4 ADDRESS:</DT><DD>106.73.154.225</DD>
+<DT>IPv6 ADDRESS:</DT><DD>240b:11:9ae1:9b00:d176:2688:1646:30f6</DD>
+<DT>ACCESS DAYTIME:</DT><DD>2023/01/10 15:09:55 UTC</DD>
+<DT>SERVER ADDRESS:</DT><DD>2604:180:f3::45f</DD>
+<DT>REMOTE ADDRESS:</DT><DD>240b:11:9ae1:9b00:d176:2688:1646:30f6</DD>
+<BR>
+
+</body>
+</html>
