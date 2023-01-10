@@ -18,5 +18,8 @@ ipv6=$(curl ipv6.icanhazip.com)
 
 curl -O "http://www.mydns.jp/directip.html?MID=${MYDNS_MID}&PWD=${MYDNS_PW}&IPV4ADDR=${ipv4}&IPV6ADDR=${ipv6}"
 
+. send_slack.sh $ipv4
+. send_slack.sh $ipv6
+
 echo $ipv4 > ./old_ipv4
 echo $ipv6 > ./old_ipv6
