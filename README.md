@@ -37,8 +37,16 @@ SLACK_WEBHOOK_URL=http://xxxxxxxxxx.xxx
 
 ### Installing
 
-特に必要有りません
+cronに追加する
 
+```
+crontab -e
+```
+
+以下を追加する
+```
+0 */3 * * * cd /home/pi/work/mydns_batch; . exe.sh
+```
 
 ## Usage <a name = "usage"></a>
 
