@@ -35,12 +35,20 @@ MYDNS_PW=XXXXXX
 SLACK_WEBHOOK_URL=http://xxxxxxxxxx.xxx
 ```
 
-### Installing
+### Settings
+
+cronを有効にする
+```
+$ sudo vim /etc/rsyslog.conf
+// 以下のコメントアウトを外す
+#cron.*                          /var/log/cron.log
+$ sudo /etc/init.d/rsyslog restart
+```
 
 cronに追加する
 
 ```
-crontab -e
+$ crontab -e
 ```
 
 以下を追加する
@@ -53,5 +61,5 @@ crontab -e
 以下を実行してください
 
 ```
-. exe.sh
+$ . exe.sh
 ```
