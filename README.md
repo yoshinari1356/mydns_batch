@@ -37,7 +37,7 @@ SLACK_WEBHOOK_URL=http://xxxxxxxxxx.xxx
 
 ### Settings
 
-cronを有効にする
+cronのログを有効にする
 ```
 $ sudo vim /etc/rsyslog.conf
 // 以下のコメントアウトを外す
